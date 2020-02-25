@@ -1,0 +1,28 @@
+{
+  "name": "jeffrey_capes",
+  "version": "1.0.0",
+  "description": "This is the resume of Jeffrey Capes",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && npm run build",
+    "build": "resume export dist/index.html --theme kendall",
+    "pdf": "resume export --format pdf dist/jcapes.pdf --theme flat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreycapes/MyResume.git"
+  },
+  "author": "Jeffrey Capes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffreycapes/issues"
+  },
+  "homepage": "https://github.com/jeffreycapes/jcapes_resume#readme",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.13.2",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-kendall": "^0.1.19",
+    "jsonresume-theme-kwan": "0.0.2",
+    "resume-cli": "^1.2.7"
+  }
+}

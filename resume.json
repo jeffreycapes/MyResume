@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Jeffrey Capes",
+    "label": "QA Analyst",
+    "picture": "https://scontent.fcpt7-1.fna.fbcdn.net/v/t1.0-9/87417073_216689616043297_1395275294960517120_n.jpg?_nc_cat=111&_nc_ohc=UCvoeX_zC74AX9tMQqe&_nc_ht=scontent.fcpt7-1.fna&oh=f58e49ed6543d24919ab3ef6eb3dbff8&oe=5EBE5517",
+    "email": "capesjeffrey@gmail.com",
+    "phone": "0823680716",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Northern Suburbs",
+      "postalCode": "7570",
+      "city": "Cape Town",
+      "countryCode": "ZA",
+      "region": "Western Cape"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "Jeffrey Capes",
+      "url": "https://www.linkedin.com/in/jeffrey-capes"
+    }]
+  },
+  "work": [{
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}
